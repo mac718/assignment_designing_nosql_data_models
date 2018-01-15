@@ -1,6 +1,6 @@
 ## Basic
 
-# User
+# user
 
 ```
 {
@@ -29,7 +29,7 @@
 
 ```
 
-# State
+# state
 
 ```
 {
@@ -39,7 +39,7 @@
 
 ```
 
-# State
+# state
 
 ```
 {

@@ -13,7 +13,7 @@
 
 ```
 
-# Restaurant
+# restaurant
 
 ```
 {
