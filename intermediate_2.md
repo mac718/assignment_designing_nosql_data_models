@@ -1,19 +1,19 @@
-## Intermediate 2
+# Intermediate 2
 
-# student
+## student
 
 ```
 {
   id: int
-  first_name: string
-  last_name: string
+  fname: string
+  lname: string
   email: string
   classes: array of class ids
 }
 
 ```
 
-# class
+## class
 
 ```
 {
@@ -24,7 +24,7 @@
 
 ```
 
-#semester
+## semester
 
 ```
 {
@@ -35,7 +35,7 @@
 
 ```
 
-#exam
+## exam
 
 ```
 {

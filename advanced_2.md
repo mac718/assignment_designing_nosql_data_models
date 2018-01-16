@@ -7,8 +7,8 @@
   id: int,
   user_name: string,
   email: string,
-  f_name: string,
-  l_name: string,
+  fname: string,
+  lname: string,
   password: string,
   friends: array of user ids,
   profile:{

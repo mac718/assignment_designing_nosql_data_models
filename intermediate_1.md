@@ -1,19 +1,19 @@
-## Intermediate 1
+# Intermediate 1
 
-# reservation
+## reservation
 
 ```
 {
-  restaurant_id: int  
+  restaurant_id: int 
   number_of_guests: int
-  reservation_time: datetime
+  reservation_time: time
   name: string
   phone_number: int //must be 10 digits
 }
 
 ```
 
-# restaurant
+## restaurant
 
 ```
 {

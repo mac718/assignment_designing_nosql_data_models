@@ -1,6 +1,6 @@
-## Advanced 1
+# Advanced 1
 
-# products
+## products
 
 ```
 {
@@ -14,7 +14,7 @@
 
 ```
 
-#department
+## department
 
 ```
 {
@@ -24,7 +24,7 @@
 }
 ```
 
-# transactions
+## transactions
 
 ```
 {
@@ -36,13 +36,13 @@
 
 ```
 
-# customer
+## customer
 
 ```
 {
   id: int
-  f_name: string
-  l_name: string
+  fname: string
+  lname: string
   email: string
   password: string
   address: {
